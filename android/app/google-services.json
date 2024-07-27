@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "594023808745",
+    "firebase_url": "https://ayavoy-dd7eb-default-rtdb.firebaseio.com",
+    "project_id": "ayavoy-dd7eb",
+    "storage_bucket": "ayavoy-dd7eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594023808745:android:cafbae1e05080245c53a78",
+        "android_client_info": {
+          "package_name": "com.aya.voy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fG5lRe69C9TIC8jNovLyn5RsHi4IjYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
