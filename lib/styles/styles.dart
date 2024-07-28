@@ -31,6 +31,7 @@ Color theme =  Colors.black;
 Color buttonText = const Color(0xffFFFFFF);
 Color inputFieldSeparator = const Color(0xff1DA1F2);
 Color termsCheckBox = const Color(0xff39BF4E);
+Color themeBlue = const Color(0xff047ce3);
 Color loaderColor = const Color(0xffFFCC00);
 Color notUploadedColor = Colors.orange;
 Color verifyPendingBck = const Color(0xffFEF2F2);

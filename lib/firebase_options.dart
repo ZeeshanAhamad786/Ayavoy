@@ -58,21 +58,24 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD2fG5lRe69C9TIC8jNovLyn5RsHi4IjYw',
-    appId: '1:594023808745:android:cafbae1e05080245c53a78',
-    messagingSenderId: '594023808745',
-    projectId: 'ayavoy-dd7eb',
-    databaseURL: 'https://ayavoy-dd7eb-default-rtdb.firebaseio.com',
-    storageBucket: 'ayavoy-dd7eb.appspot.com',
+    apiKey: 'AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY',
+    appId: '1:333078895460:android:421cbc02755c31c945f871',
+    messagingSenderId: '333078895460',
+    projectId: 'ayavoy-32f89',
+    databaseURL: 'https://ayavoy-32f89-default-rtdb.firebaseio.com',
+    storageBucket: 'ayavoy-32f89.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDAhDnP--x8IGe99M9ugebb4K2hDmglnlM',
-    appId: '1:594023808745:ios:46d26c4d17b2b7ecc53a78',
-    messagingSenderId: '594023808745',
-    projectId: 'ayavoy-dd7eb',
-    databaseURL: 'https://ayavoy-dd7eb-default-rtdb.firebaseio.com',
-    storageBucket: 'ayavoy-dd7eb.appspot.com',
+    apiKey: 'AIzaSyBGs_4TWN8kuxFEWA7YXy0mMJnpY9Vn5zE',
+    appId: '1:333078895460:ios:63d6af51c3e1a8f445f871',
+    messagingSenderId: '333078895460',
+    projectId: 'ayavoy-32f89',
+    databaseURL: 'https://ayavoy-32f89-default-rtdb.firebaseio.com',
+    storageBucket: 'ayavoy-32f89.appspot.com',
+    androidClientId: '333078895460-2t4ob10td8jpa1vavcg54p1mhsp9787j.apps.googleusercontent.com',
+    iosClientId: '333078895460-7mpf85tvbsj44732mo7rp14ftseb8cma.apps.googleusercontent.com',
     iosBundleId: 'bundle.id',
   );
+
 }

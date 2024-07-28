@@ -1,27 +1,244 @@
 {
   "project_info": {
-    "project_number": "594023808745",
-    "firebase_url": "https://ayavoy-dd7eb-default-rtdb.firebaseio.com",
-    "project_id": "ayavoy-dd7eb",
-    "storage_bucket": "ayavoy-dd7eb.appspot.com"
+    "project_number": "333078895460",
+    "firebase_url": "https://ayavoy-32f89-default-rtdb.firebaseio.com",
+    "project_id": "ayavoy-32f89",
+    "storage_bucket": "ayavoy-32f89.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:594023808745:android:cafbae1e05080245c53a78",
+        "mobilesdk_app_id": "1:333078895460:android:421cbc02755c31c945f871",
         "android_client_info": {
           "package_name": "com.aya.voy"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyD2fG5lRe69C9TIC8jNovLyn5RsHi4IjYw"
+          "current_key": "AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333078895460-586b9ukq0v8ddkclar7k5guqigq0d72a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333078895460:android:d75ea358c2d6719c45f871",
+        "android_client_info": {
+          "package_name": "com.ayavoy.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333078895460-586b9ukq0v8ddkclar7k5guqigq0d72a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333078895460:android:b98003955cb76fe845f871",
+        "android_client_info": {
+          "package_name": "driver.ayavoy.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333078895460-69452q83k663q48grcm3hcdmoobqc1kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.ayavoy.net",
+            "certificate_hash": "c43d0b42d3755ca4a9a014cbedb635a3323d2ed7"
+          }
+        },
+        {
+          "client_id": "333078895460-uud84h4tt5b31j7bthi1c19nuf3anc93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "driver.ayavoy.net",
+            "certificate_hash": "2caabbff339610d42b0c1cf170315cd567d471af"
+          }
+        },
+        {
+          "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333078895460-586b9ukq0v8ddkclar7k5guqigq0d72a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333078895460:android:cf6c90d99673ebd145f871",
+        "android_client_info": {
+          "package_name": "rider.ayavoy.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333078895460-2t4ob10td8jpa1vavcg54p1mhsp9787j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rider.ayavoy.net",
+            "certificate_hash": "01ccf066c9205687e6b92dd875105ee1cfeb2a04"
+          }
+        },
+        {
+          "client_id": "333078895460-552jfr9k01io4j9c4ca0jvv6gkjo6264.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rider.ayavoy.net",
+            "certificate_hash": "bdbb5263eeb70ec0e29c54f78feb7b21ee659c12"
+          }
+        },
+        {
+          "client_id": "333078895460-rnplc1f063o9e5qpvlp5sm87d8pvrpe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rider.ayavoy.net",
+            "certificate_hash": "2c4f33116ca15b18b1239175e8737b07ed8161de"
+          }
+        },
+        {
+          "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333078895460-586b9ukq0v8ddkclar7k5guqigq0d72a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333078895460:android:afe8e165551dd5dc45f871",
+        "android_client_info": {
+          "package_name": "user.ayavoy.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333078895460-5adc1oqh6d7osfetl633mpg83v94eptb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.ayavoy.net",
+            "certificate_hash": "01ccf066c9205687e6b92dd875105ee1cfeb2a04"
+          }
+        },
+        {
+          "client_id": "333078895460-mp8n57grji482q80v61j7jsif4qistkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.ayavoy.net",
+            "certificate_hash": "bdbb5263eeb70ec0e29c54f78feb7b21ee659c12"
+          }
+        },
+        {
+          "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-C4KWBH1dg-lJfpuiaqqqA_1p9mDkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333078895460-7bg8r1gq4vlgbpquil9mg99jm3lq8a9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333078895460-586b9ukq0v8ddkclar7k5guqigq0d72a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterUser"
+              }
+            }
+          ]
         }
       }
     }
